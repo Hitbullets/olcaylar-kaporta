@@ -2,7 +2,7 @@
 
 | Alan | Bilgi | Durum |
 | --- | --- | --- |
-| İstenen profil / sayfa adı | Olcaylar Kaporta ve Boya Servisi | Eskişehir | Kullanıcı tarafından sabitlendi; canlı profil adı gerçek tabela ve marka kullanımıyla eşleştirilmeli. Bu site aktarımı profili değiştirmedi. |
+| İstenen profil / sayfa adı | Olcaylar Kaporta ve Boya Servisi \| Eskişehir | Kullanıcı tarafından sabitlendi; canlı profil adı gerçek tabela ve marka kullanımıyla eşleştirilmeli. Bu site aktarımı profili değiştirmedi. |
 | Şehir | Eskişehir | Biliniyor |
 | Hizmetler | Oto Boya; Kaporta Onarımı; Plastik Tampon Ve Araç Aksamı Onarımı; Pasta Ve Cila Uygulaması; Sigorta Ve Kasko İşlemleri İle Hasar Onarımı; Boyasız Göçük Düzeltme | Kullanıcı tarafından verildi |
 | Çalışma saatleri | Pazartesi–Cumartesi 08.00–18.00 | Kullanıcı tarafından verildi |
